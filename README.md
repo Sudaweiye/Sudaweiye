@@ -7,7 +7,7 @@ A small guide to the projects I want to surface on this profile.
 - [BB_Downloader](https://github.com/Sudaweiye/BB_Downloader) - One-click automated downloader for SUSTech Blackboard resources with a GUI and smart file filtering.
 - [XDigestReporter](https://github.com/Sudaweiye/XDigestReporter)
 - [AI-Diary-Tool](https://github.com/Sudaweiye/AI-Diary-Tool) - Local diary generator powered by Codex with audio transcription and LaTeX export.
-- [在深圳大學學做遊戲](https://github.com/Sudaweiye/SZU2025Spring-Computer-game-developing)
+- [Learning Game Development at Shenzhen University](https://github.com/Sudaweiye/SZU2025Spring-Computer-game-developing)
 
 ## Research
 

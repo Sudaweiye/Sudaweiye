@@ -2,33 +2,61 @@
 
 # Guo Jinge
 
-Electronic Engineering undergraduate at SUSTech, with a minor in Finance and Economics.
+Undergraduate in Electronic Engineering at SUSTech, with a minor in Finance and Economics.
 
 [简体中文](#zh-cn) | [繁體中文](#zh-tw) | [English](#en) | [Français](#fr)
+
+## Contact / Find me
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>GitHub</strong><br>
+      <a href="https://github.com/Sudaweiye">@Sudaweiye</a>
+    </td>
+    <td valign="top" width="33%">
+      <strong>Email</strong><br>
+      <a href="mailto:gjinge.eefe@gmail.com">gjinge.eefe@gmail.com</a>
+    </td>
+    <td valign="top" width="33%">
+      <strong>Base</strong><br>
+      Shenzhen, China
+    </td>
+  </tr>
+</table>
 
 ---
 
 <a id="zh-cn"></a>
 ## 简体中文
 
-郭晋阁，目前就读于南方科技大学电子工程专业，并辅修金融与经济学。
+我是郭晋阁，现就读于南方科技大学电子工程专业，并辅修金融与经济学。我的兴趣横跨无线通信、边缘学习、优化方法与 AI-native Communications，也长期把编程、内容创作和工具搭建结合在一起。
 
 ### 关于我
 
-- 主修电子工程，辅修金融与经济学
-- 总绩点 3.80 / 4.00（2024-2025 学年）
-- 研究兴趣包括边缘学习、凸优化、无线通信、AI 与通信融合，以及边缘设备能耗优化
+- 南方科技大学电子工程本科在读，辅修金融与经济学
+- 2024-2025 学年 GPA 3.80 / 4.00
+- 研究兴趣集中于边缘学习、凸优化、无线通信、AI 与通信融合，以及边缘设备能耗优化
 - 熟悉 Python、PyTorch、C/C++、Java、R、Verilog、MATLAB
-- 常用 Linux、Git、tmux、SSH、PostgreSQL、MS SQL Server
-- 语言能力包括英语（TOEFL iBT 98）、普通话、法语（A2）和粤语
+- 常用 Linux、Git、tmux、SSH、PostgreSQL、Microsoft SQL Server
+- 语言能力包括英语（TOEFL iBT 98）、普通话（二级甲等）、法语（A2）和粤语
 
 ### 学习与研究方向
 
 - 无线通信与 OFDM 理论
 - 分布式优化与数值优化
-- Edge Learning
+- Edge Learning 与 Edge Intelligence
 - AI-native Communications
 - 无线资源分配算法分析
+
+### 奖项与资质
+
+- 2025.11：南方科技大学三等奖学金、致仁书院优秀学生
+- 2025.09：期货从业资格证
+- 2025.05：西涌国际暗夜社区提案大赛优秀奖
+- 2025.03：南方科技大学第四届海洋文化摄影大赛三等奖、优秀奖
+- 2024.12：中国大学生数学竞赛（非数学 A 类）省级一等奖
+- 2024.09：“外研社·国才杯”全国大学生外语能力大赛口译组铜奖
 
 ### 项目分组
 
@@ -38,24 +66,24 @@ Electronic Engineering undergraduate at SUSTech, with a minor in Finance and Eco
   <tr>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/Sudaweiye/BB_Downloader">BB_Downloader</a></strong><br>
-      面向 SUSTech Blackboard 资源的一键下载工具，带图形界面和文件筛选能力。<br><br>
+      面向 SUSTech Blackboard 资源的一键下载工具，强调图形界面体验与文件筛选效率。<br><br>
       <sub>Automation · GUI · Campus Workflow</sub>
     </td>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/Sudaweiye/XDigestReporter">XDigestReporter</a></strong><br>
-      持续打磨中的信息整理与报告工具，偏向把碎片信息整理成更可读的输出。<br><br>
+      持续打磨中的信息整理与报告工具，目标是把碎片化输入变成更清晰的摘要和输出。<br><br>
       <sub>Reporting · Workflow · Information Design</sub>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/Sudaweiye/AI-Diary-Tool">AI-Diary-Tool</a></strong><br>
-      基于 Codex 的本地日记生成工具，支持音频转写与 LaTeX 导出。<br><br>
+      基于 Codex 的本地日记生成工具，支持音频转写与 LaTeX 导出，偏向个人知识记录。<br><br>
       <sub>Codex · Audio Transcription · LaTeX</sub>
     </td>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/Sudaweiye/SZU2025Spring-Computer-game-developing">Learning Game Development at Shenzhen University</a></strong><br>
-      在深圳大学课程中实践游戏开发的项目记录与实验。<br><br>
+      在深圳大学课程中实践游戏开发的项目记录，包含 Unity 方向的课程实验与实现。<br><br>
       <sub>Unity · Coursework · Game Development</sub>
     </td>
   </tr>
@@ -67,7 +95,7 @@ Electronic Engineering undergraduate at SUSTech, with a minor in Finance and Eco
   <tr>
     <td valign="top" width="100%">
       <strong><a href="https://github.com/Sudaweiye/Implementation-of-Federated-Dropout">Implementation-of-Federated-Dropout</a></strong><br>
-      与联邦学习相关的研究实现与实验代码。<br><br>
+      与联邦学习相关的研究实现与实验代码，面向算法验证与实验复现。<br><br>
       <sub>Federated Learning · Research Code · Experiments</sub>
     </td>
   </tr>
@@ -75,8 +103,8 @@ Electronic Engineering undergraduate at SUSTech, with a minor in Finance and Eco
 
 ### 其他经历
 
-- 摄影与视频剪辑爱好者，长期使用 Pr、Ps、Ae
-- 拥有 8TB 以上原创影像素材积累
+- 长期投入摄影与视频剪辑，熟悉 Pr、Ps、Ae 等 Adobe Creative Suite 工具
+- 拥有 8TB 以上原创影像素材积累，重视内容管理、视觉叙事与后期工作流
 
 [返回顶部](#top)
 
@@ -85,24 +113,33 @@ Electronic Engineering undergraduate at SUSTech, with a minor in Finance and Eco
 <a id="zh-tw"></a>
 ## 繁體中文
 
-郭晉閣，目前就讀於南方科技大學電子工程專業，並輔修金融與經濟學。
+我是郭晉閣，現就讀於南方科技大學電子工程專業，並輔修金融與經濟學。我的興趣橫跨無線通訊、邊緣學習、優化方法與 AI-native Communications，也長期把程式開發、內容創作與工具搭建結合在一起。
 
 ### 關於我
 
-- 主修電子工程，輔修金融與經濟學
-- 總績點 3.80 / 4.00（2024-2025 學年）
-- 研究興趣包括邊緣學習、凸優化、無線通訊、AI 與通訊融合，以及邊緣設備能耗優化
+- 南方科技大學電子工程本科在讀，輔修金融與經濟學
+- 2024-2025 學年 GPA 3.80 / 4.00
+- 研究興趣集中於邊緣學習、凸優化、無線通訊、AI 與通訊融合，以及邊緣設備能耗優化
 - 熟悉 Python、PyTorch、C/C++、Java、R、Verilog、MATLAB
-- 常用 Linux、Git、tmux、SSH、PostgreSQL、MS SQL Server
-- 語言能力包括英語（TOEFL iBT 98）、普通話、法語（A2）與粵語
+- 常用 Linux、Git、tmux、SSH、PostgreSQL、Microsoft SQL Server
+- 語言能力包括英語（TOEFL iBT 98）、普通話（二級甲等）、法語（A2）與粵語
 
 ### 學習與研究方向
 
 - 無線通訊與 OFDM 理論
 - 分散式優化與數值優化
-- Edge Learning
+- Edge Learning 與 Edge Intelligence
 - AI-native Communications
 - 無線資源分配演算法分析
+
+### 獎項與資質
+
+- 2025.11：南方科技大學三等獎學金、致仁書院優秀學生
+- 2025.09：期貨從業資格證
+- 2025.05：西涌國際暗夜社區提案大賽優秀獎
+- 2025.03：南方科技大學第四屆海洋文化攝影大賽三等獎、優秀獎
+- 2024.12：中國大學生數學競賽（非數學 A 類）省級一等獎
+- 2024.09：「外研社·國才盃」全國大學生外語能力大賽口譯組銅獎
 
 ### 專案分組
 
@@ -112,24 +149,24 @@ Electronic Engineering undergraduate at SUSTech, with a minor in Finance and Eco
   <tr>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/Sudaweiye/BB_Downloader">BB_Downloader</a></strong><br>
-      面向 SUSTech Blackboard 資源的一鍵下載工具，附帶圖形介面與檔案篩選能力。<br><br>
+      面向 SUSTech Blackboard 資源的一鍵下載工具，強調圖形介面體驗與檔案篩選效率。<br><br>
       <sub>Automation · GUI · Campus Workflow</sub>
     </td>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/Sudaweiye/XDigestReporter">XDigestReporter</a></strong><br>
-      持續打磨中的資訊整理與報告工具，偏向把碎片資訊整理成更易讀的輸出。<br><br>
+      持續打磨中的資訊整理與報告工具，目標是把碎片化輸入轉成更清晰的摘要與輸出。<br><br>
       <sub>Reporting · Workflow · Information Design</sub>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/Sudaweiye/AI-Diary-Tool">AI-Diary-Tool</a></strong><br>
-      基於 Codex 的本地日記生成工具，支援音訊轉寫與 LaTeX 匯出。<br><br>
+      基於 Codex 的本地日記生成工具，支援音訊轉寫與 LaTeX 匯出，偏向個人知識記錄。<br><br>
       <sub>Codex · Audio Transcription · LaTeX</sub>
     </td>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/Sudaweiye/SZU2025Spring-Computer-game-developing">Learning Game Development at Shenzhen University</a></strong><br>
-      在深圳大學課程中實作遊戲開發的專案記錄與實驗。<br><br>
+      在深圳大學課程中實作遊戲開發的專案記錄，包含 Unity 方向的課程實驗與實作。<br><br>
       <sub>Unity · Coursework · Game Development</sub>
     </td>
   </tr>
@@ -141,7 +178,7 @@ Electronic Engineering undergraduate at SUSTech, with a minor in Finance and Eco
   <tr>
     <td valign="top" width="100%">
       <strong><a href="https://github.com/Sudaweiye/Implementation-of-Federated-Dropout">Implementation-of-Federated-Dropout</a></strong><br>
-      與聯邦學習相關的研究實作與實驗程式碼。<br><br>
+      與聯邦學習相關的研究實作與實驗程式碼，面向演算法驗證與實驗重現。<br><br>
       <sub>Federated Learning · Research Code · Experiments</sub>
     </td>
   </tr>
@@ -149,8 +186,8 @@ Electronic Engineering undergraduate at SUSTech, with a minor in Finance and Eco
 
 ### 其他經歷
 
-- 攝影與影片剪輯愛好者，長期使用 Pr、Ps、Ae
-- 擁有 8TB 以上原創影像素材積累
+- 長期投入攝影與影片剪輯，熟悉 Pr、Ps、Ae 等 Adobe Creative Suite 工具
+- 擁有 8TB 以上原創影像素材積累，重視內容管理、視覺敘事與後期工作流
 
 [返回頂部](#top)
 
@@ -159,24 +196,33 @@ Electronic Engineering undergraduate at SUSTech, with a minor in Finance and Eco
 <a id="en"></a>
 ## English
 
-I am Guo Jinge, an undergraduate student in Electronic Engineering at SUSTech, with a minor in Finance and Economics.
+I am Guo Jinge, an undergraduate student in Electronic Engineering at SUSTech, with a minor in Finance and Economics. My interests sit at the intersection of wireless communication, edge learning, optimization, and AI-native communications, and I also enjoy building practical tools that connect coding with real-world workflows.
 
 ### About Me
 
-- Major in Electronic Engineering, minor in Finance and Economics
+- Undergraduate in Electronic Engineering at SUSTech, with a minor in Finance and Economics
 - GPA: 3.80 / 4.00 in the 2024-2025 academic year
-- Research interests: edge learning, convex optimization, wireless communication, AI plus communication, and energy optimization on edge devices
+- Research interests: edge learning, convex optimization, wireless communication, AI plus communication, and energy optimization for edge devices
 - Comfortable with Python, PyTorch, C/C++, Java, R, Verilog, and MATLAB
-- Frequently work with Linux, Git, tmux, SSH, PostgreSQL, and MS SQL Server
+- Regularly work with Linux, Git, tmux, SSH, PostgreSQL, and Microsoft SQL Server
 - Languages: English (TOEFL iBT 98), Mandarin Chinese, French (A2), and Cantonese
 
 ### Study and Research Focus
 
 - Wireless communication and OFDM theory
 - Distributed and numerical optimization
-- Edge learning
+- Edge learning and edge intelligence
 - AI-native communications
 - Wireless resource allocation algorithms
+
+### Achievements and Certifications
+
+- Nov 2025: Third-Class Scholarship at SUSTech, and Outstanding Student of Zhiren College
+- Sep 2025: Futures Qualification Certificate
+- May 2025: Outstanding Award, Xichong International Dark Sky Community Proposal Competition
+- Mar 2025: Third Prize and Excellence Award, 4th SUSTech Ocean Culture Photography Competition
+- Dec 2024: Provincial First Prize, Chinese College Students Mathematics Competition (Non-Mathematics Category A)
+- Sep 2024: Bronze Award, FLTRP National Foreign Language Proficiency Contest, Interpreting Track
 
 ### Project Groups
 
@@ -186,24 +232,24 @@ I am Guo Jinge, an undergraduate student in Electronic Engineering at SUSTech, w
   <tr>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/Sudaweiye/BB_Downloader">BB_Downloader</a></strong><br>
-      A one-click downloader for SUSTech Blackboard resources with a GUI and smart file filtering.<br><br>
+      A one-click downloader for SUSTech Blackboard resources, designed around a clear GUI and efficient file filtering.<br><br>
       <sub>Automation · GUI · Campus Workflow</sub>
     </td>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/Sudaweiye/XDigestReporter">XDigestReporter</a></strong><br>
-      An evolving tool for turning scattered information into more readable reports and summaries.<br><br>
+      An evolving tool for turning scattered information into cleaner summaries and more readable reports.<br><br>
       <sub>Reporting · Workflow · Information Design</sub>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/Sudaweiye/AI-Diary-Tool">AI-Diary-Tool</a></strong><br>
-      A local diary generator powered by Codex with audio transcription and LaTeX export.<br><br>
+      A local diary generator powered by Codex, with audio transcription and LaTeX export for personal knowledge capture.<br><br>
       <sub>Codex · Audio Transcription · LaTeX</sub>
     </td>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/Sudaweiye/SZU2025Spring-Computer-game-developing">Learning Game Development at Shenzhen University</a></strong><br>
-      Coursework notes and experiments from learning game development at Shenzhen University.<br><br>
+      Coursework notes and Unity-based experiments developed while learning game development at Shenzhen University.<br><br>
       <sub>Unity · Coursework · Game Development</sub>
     </td>
   </tr>
@@ -215,7 +261,7 @@ I am Guo Jinge, an undergraduate student in Electronic Engineering at SUSTech, w
   <tr>
     <td valign="top" width="100%">
       <strong><a href="https://github.com/Sudaweiye/Implementation-of-Federated-Dropout">Implementation-of-Federated-Dropout</a></strong><br>
-      Research implementation and experimental code related to federated learning.<br><br>
+      Research implementation and experimental code related to federated learning, aimed at verification and reproducibility.<br><br>
       <sub>Federated Learning · Research Code · Experiments</sub>
     </td>
   </tr>
@@ -223,8 +269,8 @@ I am Guo Jinge, an undergraduate student in Electronic Engineering at SUSTech, w
 
 ### Beyond Engineering
 
-- Enthusiast in photography and video editing, with long-term use of Premiere Pro, Photoshop, and After Effects
-- Built an original media archive of more than 8 TB
+- Long-term interest in photography and video editing, with hands-on experience in Premiere Pro, Photoshop, and After Effects
+- Built an original media archive of more than 8 TB, with a strong interest in visual storytelling and content workflow management
 
 [Back to top](#top)
 
@@ -233,24 +279,33 @@ I am Guo Jinge, an undergraduate student in Electronic Engineering at SUSTech, w
 <a id="fr"></a>
 ## Français
 
-Je suis Guo Jinge, étudiant en licence d'ingénierie électronique à SUSTech, avec une mineure en finance et économie.
+Je suis Guo Jinge, étudiant en licence d'ingénierie électronique à SUSTech, avec une mineure en finance et économie. Mes centres d'intérêt se situent à l'intersection des communications sans fil, du edge learning, de l'optimisation et des AI-native communications, tout en gardant un goût marqué pour les outils concrets utiles au quotidien.
 
 ### À propos de moi
 
-- Spécialisation en ingénierie électronique, mineure en finance et économie
+- Étudiant en ingénierie électronique à SUSTech, avec une mineure en finance et économie
 - Moyenne générale : 3,80 / 4,00 pendant l'année universitaire 2024-2025
-- Centres d'intérêt de recherche : edge learning, optimisation convexe, communications sans fil, IA et communications, et optimisation énergétique des appareils en périphérie
+- Intérêts de recherche : edge learning, optimisation convexe, communications sans fil, IA et communications, et optimisation énergétique pour les appareils en périphérie
 - À l'aise avec Python, PyTorch, C/C++, Java, R, Verilog et MATLAB
-- Utilise souvent Linux, Git, tmux, SSH, PostgreSQL et MS SQL Server
+- Utilise régulièrement Linux, Git, tmux, SSH, PostgreSQL et Microsoft SQL Server
 - Langues : anglais (TOEFL iBT 98), mandarin, français (A2) et cantonais
 
 ### Axes d'étude et de recherche
 
 - Communications sans fil et théorie OFDM
 - Optimisation distribuée et optimisation numérique
-- Edge learning
+- Edge learning et edge intelligence
 - AI-native communications
 - Algorithmes d'allocation de ressources radio
+
+### Distinctions et certifications
+
+- Nov. 2025 : bourse de troisième niveau de SUSTech et distinction d'étudiant excellent du Zhiren College
+- Sept. 2025 : certificat de qualification professionnelle dans le secteur des contrats à terme
+- Mai 2025 : prix d'excellence au concours de propositions de la communauté internationale Dark Sky de Xichong
+- Mars 2025 : troisième prix et prix d'excellence au 4e concours de photographie de culture océanique de SUSTech
+- Déc. 2024 : premier prix provincial au Chinese College Students Mathematics Competition, catégorie A non mathématique
+- Sept. 2024 : médaille de bronze au concours national de compétences en langues étrangères FLTRP, section interprétation
 
 ### Groupes de projets
 
@@ -260,24 +315,24 @@ Je suis Guo Jinge, étudiant en licence d'ingénierie électronique à SUSTech, 
   <tr>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/Sudaweiye/BB_Downloader">BB_Downloader</a></strong><br>
-      Outil de téléchargement en un clic pour les ressources Blackboard de SUSTech avec interface graphique et filtrage intelligent.<br><br>
+      Outil de téléchargement en un clic pour les ressources Blackboard de SUSTech, pensé autour d'une interface claire et d'un filtrage efficace des fichiers.<br><br>
       <sub>Automation · GUI · Campus Workflow</sub>
     </td>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/Sudaweiye/XDigestReporter">XDigestReporter</a></strong><br>
-      Outil en évolution pour transformer des informations dispersées en rapports plus lisibles.<br><br>
+      Outil en évolution pour transformer des informations dispersées en résumés plus nets et en rapports plus lisibles.<br><br>
       <sub>Reporting · Workflow · Information Design</sub>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/Sudaweiye/AI-Diary-Tool">AI-Diary-Tool</a></strong><br>
-      Outil local de journal assisté par Codex avec transcription audio et export LaTeX.<br><br>
+      Outil local de journal assisté par Codex, avec transcription audio et export LaTeX pour la prise de notes personnelle.<br><br>
       <sub>Codex · Audio Transcription · LaTeX</sub>
     </td>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/Sudaweiye/SZU2025Spring-Computer-game-developing">Learning Game Development at Shenzhen University</a></strong><br>
-      Notes de cours et expérimentations autour de l'apprentissage du développement de jeux à Shenzhen University.<br><br>
+      Notes de cours et expérimentations sous Unity réalisées dans le cadre de l'apprentissage du développement de jeux à Shenzhen University.<br><br>
       <sub>Unity · Coursework · Game Development</sub>
     </td>
   </tr>
@@ -289,7 +344,7 @@ Je suis Guo Jinge, étudiant en licence d'ingénierie électronique à SUSTech, 
   <tr>
     <td valign="top" width="100%">
       <strong><a href="https://github.com/Sudaweiye/Implementation-of-Federated-Dropout">Implementation-of-Federated-Dropout</a></strong><br>
-      Implémentation de recherche et code expérimental liés à l'apprentissage fédéré.<br><br>
+      Implémentation de recherche et code expérimental liés à l'apprentissage fédéré, avec une attention portée à la vérification et à la reproductibilité.<br><br>
       <sub>Federated Learning · Research Code · Experiments</sub>
     </td>
   </tr>
@@ -297,7 +352,7 @@ Je suis Guo Jinge, étudiant en licence d'ingénierie électronique à SUSTech, 
 
 ### Au-delà de l'ingénierie
 
-- Passionné de photographie et de montage vidéo, avec une pratique suivie de Premiere Pro, Photoshop et After Effects
-- Archive personnelle de contenus visuels de plus de 8 To
+- Pratique suivie de la photographie et du montage vidéo, avec usage régulier de Premiere Pro, Photoshop et After Effects
+- Archive personnelle de plus de 8 To de contenus visuels originaux, avec un intérêt fort pour la narration visuelle et l'organisation des flux de création
 
 [Retour en haut](#top)

@@ -34,20 +34,49 @@ Electronic Engineering undergraduate at SUSTech, with a minor in Finance and Eco
 
 #### 为兴趣而做的 Vibe Coding
 
-- [BB_Downloader](https://github.com/Sudaweiye/BB_Downloader): 面向 SUSTech Blackboard 资源的一键下载工具，带图形界面和文件筛选能力
-- [XDigestReporter](https://github.com/Sudaweiye/XDigestReporter): 持续打磨中的信息整理与报告工具
-- [AI-Diary-Tool](https://github.com/Sudaweiye/AI-Diary-Tool): 基于 Codex 的本地日记生成工具，支持音频转写与 LaTeX 导出
-- [Learning Game Development at Shenzhen University](https://github.com/Sudaweiye/SZU2025Spring-Computer-game-developing): 在深圳大学课程中实践游戏开发的项目记录
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/BB_Downloader">BB_Downloader</a></strong><br>
+      面向 SUSTech Blackboard 资源的一键下载工具，带图形界面和文件筛选能力。<br><br>
+      <sub>Automation · GUI · Campus Workflow</sub>
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/XDigestReporter">XDigestReporter</a></strong><br>
+      持续打磨中的信息整理与报告工具，偏向把碎片信息整理成更可读的输出。<br><br>
+      <sub>Reporting · Workflow · Information Design</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/AI-Diary-Tool">AI-Diary-Tool</a></strong><br>
+      基于 Codex 的本地日记生成工具，支持音频转写与 LaTeX 导出。<br><br>
+      <sub>Codex · Audio Transcription · LaTeX</sub>
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/SZU2025Spring-Computer-game-developing">Learning Game Development at Shenzhen University</a></strong><br>
+      在深圳大学课程中实践游戏开发的项目记录与实验。<br><br>
+      <sub>Unity · Coursework · Game Development</sub>
+    </td>
+  </tr>
+</table>
 
 #### Research
 
-- [Implementation-of-Federated-Dropout](https://github.com/Sudaweiye/Implementation-of-Federated-Dropout): 与联邦学习相关的研究实现与实验代码
+<table>
+  <tr>
+    <td valign="top" width="100%">
+      <strong><a href="https://github.com/Sudaweiye/Implementation-of-Federated-Dropout">Implementation-of-Federated-Dropout</a></strong><br>
+      与联邦学习相关的研究实现与实验代码。<br><br>
+      <sub>Federated Learning · Research Code · Experiments</sub>
+    </td>
+  </tr>
+</table>
 
 ### 其他经历
 
 - 摄影与视频剪辑爱好者，长期使用 Pr、Ps、Ae
 - 拥有 8TB 以上原创影像素材积累
-- 参与过“一带一路”青年嘉年华志愿服务与研招考务志愿工作
 
 [返回顶部](#top)
 
@@ -79,20 +108,49 @@ Electronic Engineering undergraduate at SUSTech, with a minor in Finance and Eco
 
 #### 為興趣而做的 Vibe Coding
 
-- [BB_Downloader](https://github.com/Sudaweiye/BB_Downloader): 面向 SUSTech Blackboard 資源的一鍵下載工具，附帶圖形介面與檔案篩選能力
-- [XDigestReporter](https://github.com/Sudaweiye/XDigestReporter): 持續打磨中的資訊整理與報告工具
-- [AI-Diary-Tool](https://github.com/Sudaweiye/AI-Diary-Tool): 基於 Codex 的本地日記生成工具，支援音訊轉寫與 LaTeX 匯出
-- [Learning Game Development at Shenzhen University](https://github.com/Sudaweiye/SZU2025Spring-Computer-game-developing): 在深圳大學課程中實作遊戲開發的專案記錄
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/BB_Downloader">BB_Downloader</a></strong><br>
+      面向 SUSTech Blackboard 資源的一鍵下載工具，附帶圖形介面與檔案篩選能力。<br><br>
+      <sub>Automation · GUI · Campus Workflow</sub>
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/XDigestReporter">XDigestReporter</a></strong><br>
+      持續打磨中的資訊整理與報告工具，偏向把碎片資訊整理成更易讀的輸出。<br><br>
+      <sub>Reporting · Workflow · Information Design</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/AI-Diary-Tool">AI-Diary-Tool</a></strong><br>
+      基於 Codex 的本地日記生成工具，支援音訊轉寫與 LaTeX 匯出。<br><br>
+      <sub>Codex · Audio Transcription · LaTeX</sub>
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/SZU2025Spring-Computer-game-developing">Learning Game Development at Shenzhen University</a></strong><br>
+      在深圳大學課程中實作遊戲開發的專案記錄與實驗。<br><br>
+      <sub>Unity · Coursework · Game Development</sub>
+    </td>
+  </tr>
+</table>
 
 #### Research
 
-- [Implementation-of-Federated-Dropout](https://github.com/Sudaweiye/Implementation-of-Federated-Dropout): 與聯邦學習相關的研究實作與實驗程式碼
+<table>
+  <tr>
+    <td valign="top" width="100%">
+      <strong><a href="https://github.com/Sudaweiye/Implementation-of-Federated-Dropout">Implementation-of-Federated-Dropout</a></strong><br>
+      與聯邦學習相關的研究實作與實驗程式碼。<br><br>
+      <sub>Federated Learning · Research Code · Experiments</sub>
+    </td>
+  </tr>
+</table>
 
 ### 其他經歷
 
 - 攝影與影片剪輯愛好者，長期使用 Pr、Ps、Ae
 - 擁有 8TB 以上原創影像素材積累
-- 參與過「一帶一路」青年嘉年華志工服務與研招考務志工工作
 
 [返回頂部](#top)
 
@@ -124,20 +182,49 @@ I am Guo Jinge, an undergraduate student in Electronic Engineering at SUSTech, w
 
 #### Vibe Coding for Interests
 
-- [BB_Downloader](https://github.com/Sudaweiye/BB_Downloader): a one-click downloader for SUSTech Blackboard resources with a GUI and smart file filtering
-- [XDigestReporter](https://github.com/Sudaweiye/XDigestReporter): an evolving tool for information digestion and reporting
-- [AI-Diary-Tool](https://github.com/Sudaweiye/AI-Diary-Tool): a local diary generator powered by Codex with audio transcription and LaTeX export
-- [Learning Game Development at Shenzhen University](https://github.com/Sudaweiye/SZU2025Spring-Computer-game-developing): coursework and experiments from learning game development at Shenzhen University
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/BB_Downloader">BB_Downloader</a></strong><br>
+      A one-click downloader for SUSTech Blackboard resources with a GUI and smart file filtering.<br><br>
+      <sub>Automation · GUI · Campus Workflow</sub>
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/XDigestReporter">XDigestReporter</a></strong><br>
+      An evolving tool for turning scattered information into more readable reports and summaries.<br><br>
+      <sub>Reporting · Workflow · Information Design</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/AI-Diary-Tool">AI-Diary-Tool</a></strong><br>
+      A local diary generator powered by Codex with audio transcription and LaTeX export.<br><br>
+      <sub>Codex · Audio Transcription · LaTeX</sub>
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/SZU2025Spring-Computer-game-developing">Learning Game Development at Shenzhen University</a></strong><br>
+      Coursework notes and experiments from learning game development at Shenzhen University.<br><br>
+      <sub>Unity · Coursework · Game Development</sub>
+    </td>
+  </tr>
+</table>
 
 #### Research
 
-- [Implementation-of-Federated-Dropout](https://github.com/Sudaweiye/Implementation-of-Federated-Dropout): research implementation and experimental code related to federated learning
+<table>
+  <tr>
+    <td valign="top" width="100%">
+      <strong><a href="https://github.com/Sudaweiye/Implementation-of-Federated-Dropout">Implementation-of-Federated-Dropout</a></strong><br>
+      Research implementation and experimental code related to federated learning.<br><br>
+      <sub>Federated Learning · Research Code · Experiments</sub>
+    </td>
+  </tr>
+</table>
 
 ### Beyond Engineering
 
 - Enthusiast in photography and video editing, with long-term use of Premiere Pro, Photoshop, and After Effects
 - Built an original media archive of more than 8 TB
-- Volunteered in youth exchange and graduate admissions support activities
 
 [Back to top](#top)
 
@@ -169,19 +256,48 @@ Je suis Guo Jinge, étudiant en licence d'ingénierie électronique à SUSTech, 
 
 #### Vibe Coding for Interests
 
-- [BB_Downloader](https://github.com/Sudaweiye/BB_Downloader) : outil de téléchargement en un clic pour les ressources Blackboard de SUSTech avec interface graphique et filtrage intelligent
-- [XDigestReporter](https://github.com/Sudaweiye/XDigestReporter) : outil en évolution pour la synthèse d'information et la génération de rapports
-- [AI-Diary-Tool](https://github.com/Sudaweiye/AI-Diary-Tool) : outil local de journal assisté par Codex avec transcription audio et export LaTeX
-- [Learning Game Development at Shenzhen University](https://github.com/Sudaweiye/SZU2025Spring-Computer-game-developing) : travaux de cours et expérimentations autour du développement de jeux à Shenzhen University
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/BB_Downloader">BB_Downloader</a></strong><br>
+      Outil de téléchargement en un clic pour les ressources Blackboard de SUSTech avec interface graphique et filtrage intelligent.<br><br>
+      <sub>Automation · GUI · Campus Workflow</sub>
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/XDigestReporter">XDigestReporter</a></strong><br>
+      Outil en évolution pour transformer des informations dispersées en rapports plus lisibles.<br><br>
+      <sub>Reporting · Workflow · Information Design</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/AI-Diary-Tool">AI-Diary-Tool</a></strong><br>
+      Outil local de journal assisté par Codex avec transcription audio et export LaTeX.<br><br>
+      <sub>Codex · Audio Transcription · LaTeX</sub>
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/SZU2025Spring-Computer-game-developing">Learning Game Development at Shenzhen University</a></strong><br>
+      Notes de cours et expérimentations autour de l'apprentissage du développement de jeux à Shenzhen University.<br><br>
+      <sub>Unity · Coursework · Game Development</sub>
+    </td>
+  </tr>
+</table>
 
 #### Research
 
-- [Implementation-of-Federated-Dropout](https://github.com/Sudaweiye/Implementation-of-Federated-Dropout) : implémentation de recherche et code expérimental liés à l'apprentissage fédéré
+<table>
+  <tr>
+    <td valign="top" width="100%">
+      <strong><a href="https://github.com/Sudaweiye/Implementation-of-Federated-Dropout">Implementation-of-Federated-Dropout</a></strong><br>
+      Implémentation de recherche et code expérimental liés à l'apprentissage fédéré.<br><br>
+      <sub>Federated Learning · Research Code · Experiments</sub>
+    </td>
+  </tr>
+</table>
 
 ### Au-delà de l'ingénierie
 
 - Passionné de photographie et de montage vidéo, avec une pratique suivie de Premiere Pro, Photoshop et After Effects
 - Archive personnelle de contenus visuels de plus de 8 To
-- Expérience de bénévolat dans des activités d'échange jeunesse et de soutien aux admissions
 
 [Retour en haut](#top)

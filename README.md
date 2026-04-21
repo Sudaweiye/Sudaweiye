@@ -87,6 +87,15 @@ Undergraduate in Electronic Engineering at SUSTech, with a minor in Finance and 
       <sub>Unity · Coursework · Game Development</sub>
     </td>
   </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/calendar-analyzer">calendar-analyzer</a></strong><br>
+      本地运行的 Google Calendar 时间分析仪表盘，支持历史日程同步、结构化分析、可视化面板与 Windows 单文件 EXE 发布。<br><br>
+      <sub>Google Calendar · Visualization · Windows EXE</sub>
+    </td>
+    <td valign="top" width="50%">
+    </td>
+  </tr>
 </table>
 
 #### Research
@@ -168,6 +177,15 @@ Undergraduate in Electronic Engineering at SUSTech, with a minor in Finance and 
       <strong><a href="https://github.com/Sudaweiye/SZU2025Spring-Computer-game-developing">Learning Game Development at Shenzhen University</a></strong><br>
       在深圳大學課程中實作遊戲開發的專案記錄，包含 Unity 方向的課程實驗與實作。<br><br>
       <sub>Unity · Coursework · Game Development</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/calendar-analyzer">calendar-analyzer</a></strong><br>
+      本地執行的 Google Calendar 時間分析儀表板，支援歷史行程同步、結構化分析、視覺化面板與 Windows 單檔 EXE 發布。<br><br>
+      <sub>Google Calendar · Visualization · Windows EXE</sub>
+    </td>
+    <td valign="top" width="50%">
     </td>
   </tr>
 </table>
@@ -253,6 +271,15 @@ I am Guo Jinge, an undergraduate student in Electronic Engineering at SUSTech, w
       <sub>Unity · Coursework · Game Development</sub>
     </td>
   </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/calendar-analyzer">calendar-analyzer</a></strong><br>
+      A local Google Calendar analytics dashboard with historical sync, structured timeline analysis, visual dashboards, and a Windows single-file EXE release.<br><br>
+      <sub>Google Calendar · Visualization · Windows EXE</sub>
+    </td>
+    <td valign="top" width="50%">
+    </td>
+  </tr>
 </table>
 
 #### Research
@@ -334,6 +361,15 @@ Je suis Guo Jinge, étudiant en licence d'ingénierie électronique à SUSTech, 
       <strong><a href="https://github.com/Sudaweiye/SZU2025Spring-Computer-game-developing">Learning Game Development at Shenzhen University</a></strong><br>
       Notes de cours et expérimentations sous Unity réalisées dans le cadre de l'apprentissage du développement de jeux à Shenzhen University.<br><br>
       <sub>Unity · Coursework · Game Development</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/calendar-analyzer">calendar-analyzer</a></strong><br>
+      Tableau de bord local d'analyse Google Calendar avec synchronisation historique, analyse structurée, visualisations et publication Windows en EXE mono-fichier.<br><br>
+      <sub>Google Calendar · Visualization · Windows EXE</sub>
+    </td>
+    <td valign="top" width="50%">
     </td>
   </tr>
 </table>

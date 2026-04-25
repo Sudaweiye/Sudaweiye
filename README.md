@@ -94,6 +94,9 @@ Undergraduate in Electronic Engineering at SUSTech, with a minor in Finance and 
       <sub>Google Calendar · Visualization · Windows EXE</sub>
     </td>
     <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/youtube-course-packager">youtube-course-packager</a></strong><br>
+      基于本地 Codex 的 YouTube 课程打包工具，可自动生成学习导向、面试导向与科研导向三份高密度 LaTeX 报告，并配套思维导图图片与 Windows EXE 发布。<br><br>
+      <sub>Codex · LaTeX · Study Workflow</sub>
     </td>
   </tr>
 </table>
@@ -186,6 +189,9 @@ Undergraduate in Electronic Engineering at SUSTech, with a minor in Finance and 
       <sub>Google Calendar · Visualization · Windows EXE</sub>
     </td>
     <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/youtube-course-packager">youtube-course-packager</a></strong><br>
+      基於本地 Codex 的 YouTube 課程打包工具，可自動生成學習導向、面試導向與科研導向三份高密度 LaTeX 報告，並搭配思維導圖圖片與 Windows EXE 發布。<br><br>
+      <sub>Codex · LaTeX · Study Workflow</sub>
     </td>
   </tr>
 </table>
@@ -278,6 +284,9 @@ I am Guo Jinge, an undergraduate student in Electronic Engineering at SUSTech, w
       <sub>Google Calendar · Visualization · Windows EXE</sub>
     </td>
     <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/youtube-course-packager">youtube-course-packager</a></strong><br>
+      A local Codex-powered packager for YouTube courses that generates three dense LaTeX reports for learning, interviews, and research, together with mindmap images and a Windows EXE release.<br><br>
+      <sub>Codex · LaTeX · Study Workflow</sub>
     </td>
   </tr>
 </table>
@@ -370,6 +379,9 @@ Je suis Guo Jinge, étudiant en licence d'ingénierie électronique à SUSTech, 
       <sub>Google Calendar · Visualization · Windows EXE</sub>
     </td>
     <td valign="top" width="50%">
+      <strong><a href="https://github.com/Sudaweiye/youtube-course-packager">youtube-course-packager</a></strong><br>
+      Outil local basé sur Codex pour transformer un cours YouTube en trois rapports LaTeX denses orientés apprentissage, entretien et recherche, avec cartes mentales et publication Windows en EXE.<br><br>
+      <sub>Codex · LaTeX · Study Workflow</sub>
     </td>
   </tr>
 </table>

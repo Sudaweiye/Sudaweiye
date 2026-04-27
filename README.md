@@ -99,6 +99,13 @@ Undergraduate in Electronic Engineering at SUSTech, with a minor in Finance and 
       <sub>Codex · LaTeX · Study Workflow</sub>
     </td>
   </tr>
+  <tr>
+    <td valign="top" width="100%" colspan="2">
+      <strong><a href="https://github.com/Sudaweiye/world-time-wallpaper">world-time-wallpaper</a></strong><br>
+      夜间世界地图风格的桌面壁纸项目，搭配 Rainmeter 实现底部世界时钟实时更新，并提供多语言 README 与本地生成脚本。<br><br>
+      <sub>Rainmeter · Wallpaper · World Clock</sub>
+    </td>
+  </tr>
 </table>
 
 #### Research
@@ -192,6 +199,13 @@ Undergraduate in Electronic Engineering at SUSTech, with a minor in Finance and 
       <strong><a href="https://github.com/Sudaweiye/youtube-course-packager">youtube-course-packager</a></strong><br>
       基於本地 Codex 的 YouTube 課程打包工具，可自動生成學習導向、面試導向與科研導向三份高密度 LaTeX 報告，並搭配思維導圖圖片與 Windows EXE 發布。<br><br>
       <sub>Codex · LaTeX · Study Workflow</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="100%" colspan="2">
+      <strong><a href="https://github.com/Sudaweiye/world-time-wallpaper">world-time-wallpaper</a></strong><br>
+      夜間世界地圖風格的桌面壁紙專案，搭配 Rainmeter 實現底部世界時鐘即時更新，並提供多語 README 與本地生成腳本。<br><br>
+      <sub>Rainmeter · Wallpaper · World Clock</sub>
     </td>
   </tr>
 </table>
@@ -289,6 +303,13 @@ I am Guo Jinge, an undergraduate student in Electronic Engineering at SUSTech, w
       <sub>Codex · LaTeX · Study Workflow</sub>
     </td>
   </tr>
+  <tr>
+    <td valign="top" width="100%" colspan="2">
+      <strong><a href="https://github.com/Sudaweiye/world-time-wallpaper">world-time-wallpaper</a></strong><br>
+      A night-world-map desktop wallpaper project with a Rainmeter overlay for live world clocks, plus a multilingual README and local generation script.<br><br>
+      <sub>Rainmeter · Wallpaper · World Clock</sub>
+    </td>
+  </tr>
 </table>
 
 #### Research
@@ -382,6 +403,13 @@ Je suis Guo Jinge, étudiant en licence d'ingénierie électronique à SUSTech, 
       <strong><a href="https://github.com/Sudaweiye/youtube-course-packager">youtube-course-packager</a></strong><br>
       Outil local basé sur Codex pour transformer un cours YouTube en trois rapports LaTeX denses orientés apprentissage, entretien et recherche, avec cartes mentales et publication Windows en EXE.<br><br>
       <sub>Codex · LaTeX · Study Workflow</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="100%" colspan="2">
+      <strong><a href="https://github.com/Sudaweiye/world-time-wallpaper">world-time-wallpaper</a></strong><br>
+      Projet de fond d'écran de bureau inspiré d'une carte du monde nocturne, avec une superposition Rainmeter pour des horloges mondiales en temps réel, un README multilingue et un script de génération local.<br><br>
+      <sub>Rainmeter · Wallpaper · World Clock</sub>
     </td>
   </tr>
 </table>
